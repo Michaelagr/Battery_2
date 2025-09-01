@@ -1355,7 +1355,7 @@ def main():
     
     # File selection
     #input_directories = ["input_high_savings","input", "input_test", "input_test_alloheim", "input4to10", "input_test_benseler"]
-    input_directories = ["input"]
+    input_directories = ["input/"]
     available_files = []
     
     for directory in input_directories:
